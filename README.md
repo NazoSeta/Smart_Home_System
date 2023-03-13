@@ -7,7 +7,7 @@ For example:
 
 - A camera holds the status, battery life, and nightvision information
 
-This project is useful to understand the followings:
+This project is useful to understand the following:
 
 - OOP
 - Abstract classes
