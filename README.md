@@ -12,3 +12,4 @@ This project is useful to understand the followings:
 - OOP
 - Abstract classes
 - Interfaces
+- Creating a system in general
